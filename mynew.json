@@ -1,5 +1,5 @@
 {
-  "AndroidKnowledge": {
+  "AndroidKnowledge": [
   
    {
    
@@ -88,5 +88,5 @@
       "title": "How to Output Release Apk."
     }
   
-  }
+  ]
 }
