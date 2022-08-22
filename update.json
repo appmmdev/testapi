@@ -30,51 +30,7 @@
       "timestamp": "1636263417299",
       "title": "How to install Android Studio"
     }
-  },
-  
-  {
-    "androidlesson": {
-      "author_img": "https://firebasestorage.googleapis.com/v0/b/it-lessons-a0671.appspot.com/o/profileimage%2Ftumblr_18ebf729ac4790bff7e29c958f7517d8_58f445d7_2048.jpg?alt=media&token=78274761-5c42-4d90-bd2c-6a64ed1dbbb7",
-      "author_name": "KOMOENET",
-      "countdownminutes": "1",
-      "fileextension": "mp4",
-      "link": "https://www.googleapis.com/drive/v3/files/1xuJKfP4axyEt4Eee7evVPiyV9yVfOaLV?alt=media&key=AIzaSyAQvTsLlrBYgM1ObYsPJnB7RijZ3c72tBU",
-      "pViewCount": "62",
-      "post": "Project Creation First App in Android Studio And Text View Lesson",
-      "postId": "androidlesson",
-      "postImg": "https://firebasestorage.googleapis.com/v0/b/it-lessons-a0671.appspot.com/o/firstappcreation.jpg?alt=media&token=f8c469a9-2ca2-477b-ac2d-3a5951e83cc0",
-      "timestamp": "1635134515460",
-      "title": "How to create project and TextView Lesson"
-    },
-     {
-      "author_img": "https://firebasestorage.googleapis.com/v0/b/it-lessons-a0671.appspot.com/o/profileimage%2Ftumblr_18ebf729ac4790bff7e29c958f7517d8_58f445d7_2048.jpg?alt=media&token=78274761-5c42-4d90-bd2c-6a64ed1dbbb7",
-      "author_name": "KOMOENET",
-      "countdownminutes": "1",
-      "fileextension": "mp4",
-      "link": "https://www.googleapis.com/drive/v3/files/11FlwkMlKdP0IOs5gYIt1qaTm-Mbj1SpJ?alt=media&key=AIzaSyAQvTsLlrBYgM1ObYsPJnB7RijZ3c72tBU",
-      "pViewCount": "50",
-      "post": "How to install Android Studio",
-      "postId": "androidstudioinstall",
-      "postImg": "https://firebasestorage.googleapis.com/v0/b/it-lessons-a0671.appspot.com/o/firstappcreation.jpg?alt=media&token=f8c469a9-2ca2-477b-ac2d-3a5951e83cc0",
-      "timestamp": "1636293085839",
-      "title": "How to install Android Studio"
-    },
-    
-    {
-      "author_img": "https://firebasestorage.googleapis.com/v0/b/it-lessons-a0671.appspot.com/o/profileimage%2Ftumblr_18ebf729ac4790bff7e29c958f7517d8_58f445d7_2048.jpg?alt=media&token=78274761-5c42-4d90-bd2c-6a64ed1dbbb7",
-      "author_name": "KOMOENET",
-      "countdownminutes": "2",
-      "fileextension": "mp4",
-      "filesize": "29.297M",
-      "link": "https://www.googleapis.com/drive/v3/files/1JQyabzRGMjRQoPsnIFEbZBHMKU8MQW5i?alt=media&key=AIzaSyAQvTsLlrBYgM1ObYsPJnB7RijZ3c72tBU",
-      "pViewCount": "44",
-      "post": "Button Click Listener go Activity from one Activity",
-      "postId": "buttonclick",
-      "postImg": "https://firebasestorage.googleapis.com/v0/b/it-lessons-a0671.appspot.com/o/.jpg?alt=media&token=944f6ae7-b2b7-4cc2-9f7d-635c93a2f4aa",
-      "timestamp": "1636020085750",
-      "title": "Button Click Listener go Activity from one Activity"
-    }
-  
-  
   }
+  
+  
 }
