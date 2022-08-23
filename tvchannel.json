@@ -29,6 +29,16 @@
             "channelname":"DVB",
             "link":"https://stream-02.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeF-ZWm0bI__OGS4UCo0JDJ5VAGPJ8dDThaoA_ysh26Of)/dm/3/x852wwl/s/live-0.m3u8",
             "preview_img":"https://github.com/yehtutbo/iptvmm/blob/main/democratic_voice_of_burma.png"
+        },{
+
+            "channelname":"Mahar",
+            "link":"https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8",
+            "preview_img":"https://github.com/yehtutbo/iptvmm/blob/main/mahar_tv_mm.png"
+        },{
+
+            "channelname":"MNTV",
+            "link":"http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
+            "preview_img":"https://github.com/yehtutbo/iptvmm/blob/main/mn_tv_mm.png"
         }
 
 
