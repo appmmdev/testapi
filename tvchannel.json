@@ -19,6 +19,16 @@
             "channelname":"MRTV 4",
             "link":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/playlist.m3u8",
             "preview_img":"https://www.coolstreaming.us/img/ch/image89076243760.jpg"
+        },{
+
+            "channelname":"Channel K",
+            "link":"https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8",
+            "preview_img":"https://github.com/yehtutbo/iptvmm/blob/main/channel-k-mm.png"
+        },{
+
+            "channelname":"DVB",
+            "link":"https://stream-02.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeF-ZWm0bI__OGS4UCo0JDJ5VAGPJ8dDThaoA_ysh26Of)/dm/3/x852wwl/s/live-0.m3u8",
+            "preview_img":"https://github.com/yehtutbo/iptvmm/blob/main/democratic_voice_of_burma.png"
         }
 
 
