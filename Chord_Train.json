@@ -6,14 +6,17 @@
             "chord_img":"https://guitar.com/wp-content/uploads/2021/06/C-Major-Chord-Clinic-Figure-1@1400x1050-1392x1044.jpg",
          
          
-            "audio_data":"https://firebasestorage.googleapis.com/v0/b/mm-lyric-bfc02.appspot.com/o/Chord_Train%2FC_64kb.mp3?alt=media&token=f38b4c2f-85b0-4bf8-8f42-d315c1be7b29"
+            "audio_data":"https://firebasestorage.googleapis.com/v0/b/mm-lyric-bfc02.appspot.com/o/Chord_Train%2FC_64kb.mp3?alt=media&token=f38b4c2f-85b0-4bf8-8f42-d315c1be7b29",
+            "search_data":"C"
         },
         {
 
             "chord_img":"https://jtgt-static.b-cdn.net/images/modules/BCS1/BC-111-Dchord.gif",
          
          
-            "audio_data":"https://firebasestorage.googleapis.com/v0/b/mm-lyric-bfc02.appspot.com/o/Chord_Train%2FD_64kb.mp3?alt=media&token=f238f2ef-9d86-4f3d-9eb3-1ce15e0a4bfa"
+            "audio_data":"https://firebasestorage.googleapis.com/v0/b/mm-lyric-bfc02.appspot.com/o/Chord_Train%2FD_64kb.mp3?alt=media&token=f238f2ef-9d86-4f3d-9eb3-1ce15e0a4bfa",
+            
+             "search_data":"D"
         }
     ]
 }
