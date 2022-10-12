@@ -5,7 +5,8 @@
 
         {
 
-            "appversion":"1.0"
+            "appversion":"1.0",
+            "updatemessage":"Fix Bug & Change UI"
         }
     ]
 }
