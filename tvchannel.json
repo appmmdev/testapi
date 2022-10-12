@@ -19,8 +19,8 @@
             "preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
         },{
 
-            "channelname":"5plus",
-            "link":"https://streammain.myanmartvchannels.com:999/website-5plus2-stream657394/website-5plus2-stream657394/chunks.m3u8?nimblesessionid=2595300&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA1OjQyOjU1IFBNJmhhc2hfdmFsdWU9aStPY0ZBRVA4M2NXMWZJYXBSdm5nQT09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj01NQ==",
+            "channelname":"India Today",
+            "link":"https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_404p/chunks.m3u8",
             "preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
         }
 
