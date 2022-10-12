@@ -26,7 +26,7 @@
         
         "channelname":"Zee Business",
         "link":"https://z5ak-live.zee5.com/out/v1/7dcee573362e48908ab1b335d8780625/hdntl=exp=1665685350~acl=%2f*~data=hdntl~hmac=7f0fcb4d99516fa1bc811a7fa19d7f77e76e164778f73707aeb30e6ecb956be4/index_30.m3u8",
-        "preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
+        "preview_img":"https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1665620735/ei/nwZHY_-SL5jwhgbf3p-ADg/ip/4.246.151.144/id/lKX_ipCAkos.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-p5qddn7k.googlevideo.com/ctier/SPL/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/ag/mm/44/mn/sn-p5qddn7k/ms/lva/mv/u/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1665598214/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,ctier,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAKNiZh27KWDPDdusBGOTQWSckMPeelszGG5OROVg5ELbAiEApC2a10fzHLeDrTqbm-ugcPzl5uUwXFh3Pkz2ldAijSg%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAMPX5p3bZQhItlBUQ1Y2xrx1Ei-MNoJJUbOW9wuGaxYCAiAejZpKwWbTfn_Q2J0ZkVOJrtsQ1-48Of7EUsP71qNl9w%3D%3D/playlist/index.m3u8"
         
         }
 
