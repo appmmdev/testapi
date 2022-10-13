@@ -52,10 +52,13 @@
 			"link":"https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8"
 		},
 		{
-			"channelname":"MNTV",
+            
+			"channelname":"Channel K",
 			"preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17",
 			"link":"http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
 		}
+	    
+	    
 
     
     ]
