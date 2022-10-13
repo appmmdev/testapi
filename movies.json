@@ -30,18 +30,60 @@
             "catagory":"Movie",
             "studio":"Bollywood"
         },{
-            "movietitle":"Bollywood 2",
+            "movietitle":"Series 1",
             "description":"MC TV is designed for Myanmar People.",
             "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/bolly2.jpg?alt=media&token=fef896eb-5076-4361-92c4-23355c183865",
             "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
-            "catagory":"Movie",
+            "catagory":"Series",
             "studio":"Bollywood"
         },{
-            "movietitle":"Bollywood 3",
+            "movietitle":"Series 2",
             "description":"MC TV is designed for Myanmar People.",
             "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/bolly3.jpg?alt=media&token=9285d79a-82a5-4a12-a17d-aacb8f8c25fa",
             "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
-            "catagory":"Movie",
+            "catagory":"Series",
+            "studio":"Bollywood"
+        },,{
+            "movietitle":"Series 3",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/bolly2.jpg?alt=media&token=fef896eb-5076-4361-92c4-23355c183865",
+            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "catagory":"Series",
+            "studio":"Bollywood"
+        },{
+            "movietitle":"Series 4",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/bolly3.jpg?alt=media&token=9285d79a-82a5-4a12-a17d-aacb8f8c25fa",
+            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "catagory":"Series",
+            "studio":"Bollywood"
+        },{
+            "movietitle":"Popular",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/bolly2.jpg?alt=media&token=fef896eb-5076-4361-92c4-23355c183865",
+            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "catagory":"Popular",
+            "studio":"Bollywood"
+        },{
+            "movietitle":"Popular2",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/bolly3.jpg?alt=media&token=9285d79a-82a5-4a12-a17d-aacb8f8c25fa",
+            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "catagory":"Popular",
+            "studio":"Bollywood"
+        },{
+            "movietitle":"Popular3",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/bolly2.jpg?alt=media&token=fef896eb-5076-4361-92c4-23355c183865",
+            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "catagory":"Popular",
+            "studio":"Bollywood"
+        },{
+            "movietitle":"Popular4",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/bolly3.jpg?alt=media&token=9285d79a-82a5-4a12-a17d-aacb8f8c25fa",
+            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "catagory":"Popular",
             "studio":"Bollywood"
         }
     ]
