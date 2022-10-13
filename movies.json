@@ -16,17 +16,17 @@
             "catagory":"Movie",
             "studio":"Bollywood"
         },{
-            "movietitle":"Thor",
+            "movietitle":"Sooryavanshi",
             "description":"MC TV is designed for Myanmar People.",
-            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/thor.jpg?alt=media&token=08c78fcd-9fda-466c-82f3-a8d160776cdd",
+            "movie_img":"http://zegomovie.com/Uploads/vod/2022-01-31/61f74c30562e7.jpg",
             "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
             "catagory":"Movie",
-            "studio":"Hollywood"
+            "studio":"Bollywood"
         },{
-            "movietitle":"Movie 5",
+            "movietitle":"Dhamaka",
             "description":"MC TV is designed for Myanmar People.",
-            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/thor.jpg?alt=media&token=08c78fcd-9fda-466c-82f3-a8d160776cdd",
-            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "movie_img":"http://zegomovie.com/Uploads/vod/2022-01-07/61d8083662912.jpg",
+            "link":"http://www.zegomovie.com/Videos/Dhamaka/index.m3u8",
             "catagory":"Movie",
             "studio":"Hollywood"
         },{
