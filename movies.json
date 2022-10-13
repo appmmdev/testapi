@@ -54,7 +54,7 @@
             "movietitle":"Movie 9",
             "description":"MC TV is designed for Myanmar People.",
             "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/thor.jpg?alt=media&token=08c78fcd-9fda-466c-82f3-a8d160776cdd",
-            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "link":"www.zegomovie.com:80/Videos/JabTakHaiJaan/index.m3u8",
             "catagory":"Movie",
             "studio":"Hollywood"
         },{
