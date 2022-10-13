@@ -33,7 +33,29 @@
 "link":"https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8",
 "preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
 
-}
+},{
+            
+			"channelname":"MUTV",
+			"preview_img":"https:\/\/image.roku.com\/developer_channels\/prod\/88e508b20c4ec250fe8142c0f02f27d98958d9247f75710a22343e573ffe9c19.png",
+			"link":"https:\/\/bcovlive-a.akamaihd.net\/r2d2c4ca5bf57456fb1d16255c1a535c8\/eu-west-1\/eu-west-1\/6058004203001\/profile_1\/chunklist.m3u8"
+		},
+		{
+			
+			"channelname":"fightsport",
+			"preview_img":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTg203DmMHGih6jksCHhZCG4wqBPIWzACsqdA&usqp=CAU",
+			"link":"https:\/\/shls-fight-sports-ak.akamaized.net:443\/out\/v1\/ee7e6475b12e484bbfa5c31461ad4306\/index_1.m3u8"
+		},
+		{
+            
+			"channelname":"Channel K",
+			"preview_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwLuviL1QhM6haVFInPHMj4XjEb-YCmaOlbJp0HQs&s",
+			"link":"https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8"
+		},
+		{
+			"channelname":"MNTV",
+			"preview_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6M3RuDjOhJ9VNpGlmUv22idglYtclqvkU1oVtJ-K7&s",
+			"link":"http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
+		}
 
 
     
