@@ -1,65 +1,54 @@
 {
-
-    "TV_Database":[
-
-       {
-
-           
-            "channelname":"မဟာဗောဓိ",
-            "link":"https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
-            "preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17" },{
-
-            "channelname":"Channel 7",
-            "link":"https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/playlist.m3u8",
-            "preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
-        },{
-
-            "channelname":"MRTV 4",
-            "link":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/playlist.m3u8",
-            "preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
-        },{
-
-            "channelname":"India Today",
-            "link":"https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_404p/chunks.m3u8",
-            "preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
-        },{
-        
-        "channelname":"Channel Me",
-
-       "link": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8",
-        "preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
-        },{
-"channelname":"Mahar",
-"link":"https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8",
-"preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
-
-},{
-            
-			"channelname":"MUTV",
-			"preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17",
-			"link":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-		},
-		{
-			
-			"channelname":"Fight Sport",
-			"preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17",
-			"link":"https://shls-fight-sports-ak.akamaized.net:443/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8"
-		},
-		{
-            
-			"channelname":"Channel K",
-			"preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17",
-			"link":"https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8"
-		},
-		{
-            
-			"channelname":"TV MN",
-			"preview_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17",
-			"link":"http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
-		}
-	    
-	    
-
-    
-    ]
+  "TV_Database": [
+    {
+      "channelname": "မဟာဗောဓိ",
+      "link": "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
+      "preview_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
+    },
+    {
+      "channelname": "Channel 7",
+      "link": "https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/playlist.m3u8",
+      "preview_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
+    },
+    {
+      "channelname": "MRTV 4",
+      "link": "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/playlist.m3u8",
+      "preview_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
+    },
+    {
+      "channelname": "India Today",
+      "link": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_404p/chunks.m3u8",
+      "preview_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
+    },
+    {
+      "channelname": "Channel Me",
+      "link": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8",
+      "preview_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
+    },
+    {
+      "channelname": "Mahar",
+      "link": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8",
+      "preview_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
+    },
+    {
+      "channelname": "MUTV",
+      "preview_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17",
+      "link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+    },
+    {
+      "channelname": "Fight Sport",
+      "preview_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17",
+      "link": "https://shls-fight-sports-ak.akamaized.net:443/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8"
+    },
+    {
+      "channelname": "Channel K",
+      "preview_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17",
+      "link": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8"
+    },
+    {
+      "channelname": "TV MN",
+      "preview_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17",
+      "link": "http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
+    }
+  ]
 }
