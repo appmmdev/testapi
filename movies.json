@@ -23,6 +23,48 @@
             "catagory":"Movie",
             "studio":"Hollywood"
         },{
+            "movietitle":"Movie 5",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/thor.jpg?alt=media&token=08c78fcd-9fda-466c-82f3-a8d160776cdd",
+            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "catagory":"Movie",
+            "studio":"Hollywood"
+        },{
+            "movietitle":"Movie 6",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/thor.jpg?alt=media&token=08c78fcd-9fda-466c-82f3-a8d160776cdd",
+            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "catagory":"Movie",
+            "studio":"Hollywood"
+        },{
+            "movietitle":"Movie 7",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/thor.jpg?alt=media&token=08c78fcd-9fda-466c-82f3-a8d160776cdd",
+            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "catagory":"Movie",
+            "studio":"Hollywood"
+        },{
+            "movietitle":"Movie 8",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/thor.jpg?alt=media&token=08c78fcd-9fda-466c-82f3-a8d160776cdd",
+            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "catagory":"Movie",
+            "studio":"Hollywood"
+        },{
+            "movietitle":"Movie 9",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/thor.jpg?alt=media&token=08c78fcd-9fda-466c-82f3-a8d160776cdd",
+            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "catagory":"Movie",
+            "studio":"Hollywood"
+        },{
+            "movietitle":"Movie 10",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/thor.jpg?alt=media&token=08c78fcd-9fda-466c-82f3-a8d160776cdd",
+            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "catagory":"Movie",
+            "studio":"Hollywood"
+        },{
             "movietitle":"Bollywood 1",
             "description":"MC TV is designed for Myanmar People.",
             "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/bolly1.jpg?alt=media&token=57bb1703-b237-4e83-a50e-8d557513f7b3",
@@ -43,7 +85,7 @@
             "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
             "catagory":"Series",
             "studio":"Bollywood"
-        },,{
+        },{
             "movietitle":"Series 3",
             "description":"MC TV is designed for Myanmar People.",
             "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/bolly2.jpg?alt=media&token=fef896eb-5076-4361-92c4-23355c183865",
@@ -52,6 +94,13 @@
             "studio":"Bollywood"
         },{
             "movietitle":"Series 4",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/bolly3.jpg?alt=media&token=9285d79a-82a5-4a12-a17d-aacb8f8c25fa",
+            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+            "catagory":"Series",
+            "studio":"Bollywood"
+        },{
+            "movietitle":"Series 5",
             "description":"MC TV is designed for Myanmar People.",
             "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/bolly3.jpg?alt=media&token=9285d79a-82a5-4a12-a17d-aacb8f8c25fa",
             "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
