@@ -1,0 +1,17 @@
+{
+
+
+    "DB_AppData":[
+
+        {
+
+            "appversion":"1.0",
+            "updatemessage":"Fix Bug & Change UI",
+            "facebookprofile":"komoenet",
+            "moviedatasize":"10",
+            "tvdatasize":"10",
+            "channelURL":"https://appmmdev.github.io/testapi/testtvchannel.json",
+            "movieURL":"https://appmmdev.github.io/testapi/testmovie.json"
+        }
+    ]
+}
