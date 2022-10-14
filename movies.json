@@ -148,6 +148,13 @@
             "link":"http://www.zegomovie.com/Videos/420IPC/index.m3u8",
             "catagory":"Movie",
             "studio":"Bollywood"
+        },{
+            "movietitle":"Bro Daddy",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"http://zegomovie.com/Uploads/vod/2022-02-18/620f44b35a097.jpg",
+            "link":"http://www.zegomovie.com/Videos/BroDaddy/index.m3u8",
+            "catagory":"Series",
+            "studio":"Bollywood"
         }
     ]
 }
