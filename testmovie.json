@@ -1,0 +1,41 @@
+{
+    "Movies_Database":[
+
+        {
+            "movietitle":"MC Movie",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/cover%2Fmccover.png?alt=media&token=07b3c1d8-72b5-47c7-9dc6-c1a7a3743932",
+            "link":"http://www.zegomovie.com/Videos/RamaraoOnDuty/index.m3u8",
+            "catagory":"Popular",
+            "studio":"Bollywood"
+        },{
+            "movietitle":"MC Movie 2",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/cover%2Fmccover.png?alt=media&token=07b3c1d8-72b5-47c7-9dc6-c1a7a3743932",
+            "link":"http://www.zegomovie.com/Videos/RamaraoOnDuty/index.m3u8",
+            "catagory":"Popular",
+            "studio":"Bollywood"
+        },{
+            "movietitle":"MC Movie 3",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/cover%2Fmccover.png?alt=media&token=07b3c1d8-72b5-47c7-9dc6-c1a7a3743932",
+            "link":"http://www.zegomovie.com/Videos/RamaraoOnDuty/index.m3u8",
+            "catagory":"Movie",
+            "studio":"Bollywood"
+        },{
+            "movietitle":"MC Movie 4",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/cover%2Fmccover.png?alt=media&token=07b3c1d8-72b5-47c7-9dc6-c1a7a3743932",
+            "link":"http://www.zegomovie.com/Videos/RamaraoOnDuty/index.m3u8",
+            "catagory":"Movie",
+            "studio":"Bollywood"
+        },{
+            "movietitle":"MC Movie 5",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/cover%2Fmccover.png?alt=media&token=07b3c1d8-72b5-47c7-9dc6-c1a7a3743932",
+            "link":"http://www.zegomovie.com/Videos/RamaraoOnDuty/index.m3u8",
+            "catagory":"Movie",
+            "studio":"Bollywood"
+        }
+    ]
+}
