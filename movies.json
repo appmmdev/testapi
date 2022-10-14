@@ -6,27 +6,20 @@
             "description":"Ramarao is a fair government officer who bends the rules when it comes to fighting the lapses in the system. When transferred to his own village, situations take him on a quest where he faces challenges and has to take on evil.",
             "movie_img":"https://m.media-amazon.com/images/M/MV5BMjgyNTBlOGYtZjgzMS00NDM1LWFhZTItMTNlNWZlOGI4YmVjXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_FMjpg_UX1000_.jpg",
             "link":"http://www.zegomovie.com/Videos/RamaraoOnDuty/index.m3u8",
-            "catagory":"Movie",
+            "catagory":"Popular",
             "studio":"Bollywood"
         },{
             "movietitle":"Tees Maar Khan",
             "description":"Tees Maar Khan, a college student, dreams of joining the police force and his hard work pays off when he joins the force. Soon, Tees Maar Khan starts facing troubles from an influential person who collaborates with a mafia don and his sister and brother-in-law are murdered.",
             "movie_img":"https://static.toiimg.com/photo/87102163.cms",
             "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
-            "catagory":"Movie",
+            "catagory":"Popular",
             "studio":"Bollywood"
         },{
             "movietitle":"Sooryavanshi",
             "description":"MC TV is designed for Myanmar People.",
             "movie_img":"http://zegomovie.com/Uploads/vod/2022-01-31/61f74c30562e7.jpg",
             "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
-            "catagory":"Movie",
-            "studio":"Bollywood"
-        },{
-            "movietitle":"Dhamaka",
-            "description":"MC TV is designed for Myanmar People.",
-            "movie_img":"http://zegomovie.com/Uploads/vod/2022-01-07/61d8083662912.jpg",
-            "link":"http://www.zegomovie.com/Videos/Dhamaka/index.m3u8",
             "catagory":"Movie",
             "studio":"Bollywood"
         },{
@@ -41,7 +34,7 @@
             "description":"MC TV is designed for Myanmar People.",
             "movie_img":"http://zegomovie.com/Uploads/vod/2019-05-28/5ced17c8449cd.jpg",
             "link":"http://www.zegomovie.com/Videos/TEZZ/index.m3u8",
-            "catagory":"Movie",
+            "catagory":"Popular",
             "studio":"Bollywood"
         },{
             "movietitle":"Anjaam Pathiraa",
@@ -63,83 +56,6 @@
             "movie_img":"http://zegomovie.com/Uploads/vod/2022-01-07/61d8083662912.jpg",
             "link":"http://www.zegomovie.com/Videos/Dhamaka/index.m3u8",
             "catagory":"Popular",
-            "studio":"Bollywood"
-        },{
-            "movietitle":"Maestro",
-            "description":"MC TV is designed for Myanmar People.",
-            "movie_img":"http://zegomovie.com/Uploads/vod/2021-09-24/614d87cf0cc9c.jpg",
-            "link":"http://www.zegomovie.com/Videos/Maestro/index.m3u8",
-            "catagory":"Popular",
-            "studio":"Bollywood"
-        },{
-            "movietitle":"TEZZ",
-            "description":"MC TV is designed for Myanmar People.",
-            "movie_img":"http://zegomovie.com/Uploads/vod/2019-05-28/5ced17c8449cd.jpg",
-            "link":"http://www.zegomovie.com/Videos/TEZZ/index.m3u8",
-            "catagory":"Popular",
-            "studio":"Bollywood"
-        },{
-            "movietitle":"Anjaam Pathiraa",
-            "description":"MC TV is designed for Myanmar People.",
-            "movie_img":"http://zegomovie.com/Uploads/vod/2020-12-12/5fd46cc7c4196.jpg",
-            "link":"http://www.zegomovie.com/Videos/AnjaamPathiraa/index.m3u8",
-            "catagory":"Popular",
-            "studio":"Bollywood"
-        },{
-            "movietitle":"Thupparivaala",
-            "description":"MC TV is designed for Myanmar People.",
-            "movie_img":"http://zegomovie.com/Uploads/vod/2019-06-01/5cf22d2bb5391.jpg",
-            "link":"http://www.zegomovie.com/Videos/Thupparivaala/index.m3u8",
-            "catagory":"Popular",
-            "studio":"Bollywood"
-        }, {
-            "movietitle":"Ramarao On Duty",
-            "description":"Ramarao is a fair government officer who bends the rules when it comes to fighting the lapses in the system. When transferred to his own village, situations take him on a quest where he faces challenges and has to take on evil.",
-            "movie_img":"https://m.media-amazon.com/images/M/MV5BMjgyNTBlOGYtZjgzMS00NDM1LWFhZTItMTNlNWZlOGI4YmVjXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_FMjpg_UX1000_.jpg",
-            "link":"http://www.zegomovie.com/Videos/RamaraoOnDuty/index.m3u8",
-            "catagory":"Series",
-            "studio":"Bollywood"
-        },{
-            "movietitle":"Tees Maar Khan",
-            "description":"Tees Maar Khan, a college student, dreams of joining the police force and his hard work pays off when he joins the force. Soon, Tees Maar Khan starts facing troubles from an influential person who collaborates with a mafia don and his sister and brother-in-law are murdered.",
-            "movie_img":"https://static.toiimg.com/photo/87102163.cms",
-            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
-            "catagory":"Series",
-            "studio":"Bollywood"
-        },{
-            "movietitle":"Sooryavanshi",
-            "description":"MC TV is designed for Myanmar People.",
-            "movie_img":"http://zegomovie.com/Uploads/vod/2022-01-31/61f74c30562e7.jpg",
-            "link":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
-            "catagory":"Series",
-            "studio":"Bollywood"
-        },{
-            "movietitle":"Dhamaka",
-            "description":"MC TV is designed for Myanmar People.",
-            "movie_img":"http://zegomovie.com/Uploads/vod/2022-01-07/61d8083662912.jpg",
-            "link":"http://www.zegomovie.com/Videos/Dhamaka/index.m3u8",
-            "catagory":"Series",
-            "studio":"Bollywood"
-        },{
-            "movietitle":"Maestro",
-            "description":"MC TV is designed for Myanmar People.",
-            "movie_img":"http://zegomovie.com/Uploads/vod/2021-09-24/614d87cf0cc9c.jpg",
-            "link":"http://www.zegomovie.com/Videos/Maestro/index.m3u8",
-            "catagory":"Series",
-            "studio":"Bollywood"
-        },{
-            "movietitle":"TEZZ",
-            "description":"MC TV is designed for Myanmar People.",
-            "movie_img":"http://zegomovie.com/Uploads/vod/2019-05-28/5ced17c8449cd.jpg",
-            "link":"http://www.zegomovie.com/Videos/TEZZ/index.m3u8",
-            "catagory":"Series",
-            "studio":"Bollywood"
-        },{
-            "movietitle":"Anjaam Pathiraa",
-            "description":"MC TV is designed for Myanmar People.",
-            "movie_img":"http://zegomovie.com/Uploads/vod/2020-12-12/5fd46cc7c4196.jpg",
-            "link":"http://www.zegomovie.com/Videos/AnjaamPathiraa/index.m3u8",
-            "catagory":"Series",
             "studio":"Bollywood"
         },{
             "movietitle":"420 IPC",
@@ -153,7 +69,7 @@
             "description":"MC TV is designed for Myanmar People.",
             "movie_img":"http://zegomovie.com/Uploads/vod/2022-02-18/620f44b35a097.jpg",
             "link":"http://www.zegomovie.com/Videos/BroDaddy/index.m3u8",
-            "catagory":"Series",
+            "catagory":"Popular",
             "studio":"Bollywood"
         }
     ]
