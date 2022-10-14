@@ -141,6 +141,13 @@
             "link":"http://www.zegomovie.com/Videos/AnjaamPathiraa/index.m3u8",
             "catagory":"Series",
             "studio":"Bollywood"
+        },{
+            "movietitle":"420 IPC",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"http://zegomovie.com/Uploads/vod/2022-02-15/620b133922e4b.jpg",
+            "link":"http://www.zegomovie.com/Videos/420IPC/index.m3u8",
+            "catagory":"Movie",
+            "studio":"Bollywood"
         }
     ]
 }
