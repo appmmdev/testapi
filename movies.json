@@ -71,6 +71,13 @@
             "link":"http://www.zegomovie.com/Videos/BroDaddy/index.m3u8",
             "catagory":"Popular",
             "studio":"Bollywood"
+        },{
+            "movietitle":"Play Black",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"http://zegomovie.com/Uploads/vod/2021-06-29/60da8b682b4ae.jpg",
+            "link":"http://www.zegomovie.com/Videos/PlayBack/index.m3u8",
+            "catagory":"Popular",
+            "studio":"Bollywood"
         }
     ]
 }
