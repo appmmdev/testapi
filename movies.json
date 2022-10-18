@@ -116,6 +116,13 @@
             "link":"http://www.zegomovie.com/Videos/200HallaHo/index.m3u8",
             "catagory":"Popular",
             "studio":"Hollywood"
+        },{
+            "movietitle":"Ayngaran",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"http://zegomovie.com/Uploads/vod/2022-07-08/62c79414f10a7.jpg",
+            "link":"http://www.zegomovie.com/Videos/Ayngaran/index.m3u8",
+            "catagory":"Popular",
+            "studio":"Bollywood"
         }
     ]
 }
