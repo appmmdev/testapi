@@ -158,6 +158,13 @@
             "link":"http://www.zegomovie.com/Videos/Holiday/index.m3u8",
             "catagory":"Movie",
             "studio":"Bollywood"
+        },{
+            "movietitle":"The Frozen Ground",
+            "description":"MC TV is designed for Myanmar People.",
+            "movie_img":"http://zegomovie.com/Uploads/vod/2019-05-23/5ce6780d9e890.jpg",
+            "link":"http://www.zegomovie.com/Videos/TheFrozenGround/index.m3u8",
+            "catagory":"Nicolus",
+            "studio":"Hollywood"
         }
     ]
   }
