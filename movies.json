@@ -165,6 +165,41 @@
             "link":"http://www.zegomovie.com/Videos/TheFrozenGround/index.m3u8",
             "catagory":"Nicolus",
             "studio":"Hollywood"
-        }
+        },{
+    "movietitle": "Sarkar Raj",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-10/5cfdde574205b.jpg",
+    "link": "http://www.zegomovie.com/Videos/SarkarRaj/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Puzhu",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-05-28/6291e8adab6b8.jpg",
+    "link": "http://www.zegomovie.com/Videos/Puzhu/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  } ,{
+    "movietitle": "Special 26",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-05-28/5cecdba55dcbf.jpg",
+    "link": "http://www.zegomovie.com/Videos/Special26/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Talaash",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-10/5cfddbc78c6d8.jpg",
+    "link": "http://www.zegomovie.com/Videos/Talaash/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Talvar",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-10/5cfdd964bdfd0.jpg",
+    "link": "http://www.zegomovie.com/Videos/Talvar/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }
     ]
   }
