@@ -200,6 +200,13 @@
     "link": "http://www.zegomovie.com/Videos/Talvar/index.m3u8",
     "catagory": "Popular",
     "studio": "Bollywood"
+  }, {
+    "movietitle": "Ammu",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-22/6353a964e5031.jpg",
+    "link": "http://www.zegomovie.com/Videos/Ammu/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
   }
     ]
   }
