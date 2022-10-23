@@ -249,6 +249,27 @@
     "link": "http://www.zegomovie.com/Videos/Boss/index.m3u8",
     "catagory": "Popular",
     "studio": "Bollywood"
+  }, {
+    "movietitle": "Rocketry: The Nambi Effect",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-08-18/62fdad774e28d.jpg",
+    "link": "http://www.zegomovie.com/Videos/RocketryTheNambiEffect/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Udta Punjab",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2019-05-28/5ced2f3f7f7a7.jpg",
+    "link": "http://www.zegomovie.com/Videos/UdtaPunjab/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Panipat",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2020-04-10/5e903b087028e.jpg",
+    "link": "http://www.zegomovie.com/Videos/Panipat/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
   }
     ]
   }
