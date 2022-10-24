@@ -311,7 +311,35 @@
     "movie_img": "http://zegomovie.com/Uploads/vod/2021-04-28/6088f2ef69291.jpg",
     "link": "http://www.zegomovie.com/Videos/Mortal-Kombat/index.m3u8",
     "catagory": "Popular",
-    "studio": "Hollywood"
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Krack",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2021-02-10/6023656489577.jpg",
+    "link": "http://www.zegomovie.com/Videos/Krack/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Frozen II",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2020-01-06/5e12cba166e27.jpg",
+    "link": "http://www.zegomovie.com/Videos/FrozenII/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Animation"
+  }, {
+    "movietitle": "Pushpa: The Rise",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-02-05/61fe26b7d4f7d.jpg",
+    "link": "http://www.zegomovie.com/Videos/PushpaTheRise/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Ala Vaikunthapurramuloo",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2020-03-08/5e64da2151b79.jpg",
+    "link": "http://www.zegomovie.com/Videos/AlaVaikunthapurramuloo/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
   }
     ]
   }
