@@ -298,6 +298,20 @@
     "link": "http://www.zegomovie.com/Videos/Hellraiser/index.m3u8",
     "catagory": "Popular",
     "studio": "Bollywood"
+  }, {
+    "movietitle": "Sarileru Neekevvaru",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2020-03-06/5e6247e69296b.jpg",
+    "link": "http://www.zegomovie.com/Videos/SarileruNeekevvaru/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Mortal Kombat",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2021-04-28/6088f2ef69291.jpg",
+    "link": "http://www.zegomovie.com/Videos/Mortal-Kombat/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Hollywood"
   }
     ]
   }
