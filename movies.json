@@ -284,6 +284,20 @@
     "link": "http://www.zegomovie.com/Videos/HITTheFirstCase/index.m3u8",
     "catagory": "Popular",
     "studio": "Bollywood"
+  }, {
+    "movietitle": "Theerppu",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-22/63536911860c3.jpg",
+    "link": "http://www.zegomovie.com/Videos/Theerppu/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Hellraiser",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-22/6353a7f0c488a.jpg",
+    "link": "http://www.zegomovie.com/Videos/Hellraiser/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
   }
     ]
   }
