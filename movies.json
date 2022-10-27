@@ -340,6 +340,20 @@
     "link": "http://www.zegomovie.com/Videos/AlaVaikunthapurramuloo/index.m3u8",
     "catagory": "Popular",
     "studio": "Bollywood"
+  }, {
+    "movietitle": "Bujji… Ila Raa",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-27/6359e6bc45428.jpg",
+    "link": "http://www.zegomovie.com/Videos/BujjillaRaa/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Bimbisara",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-25/6357b96a4d23f.jpg",
+    "link": "http://www.zegomovie.com/Videos/Bimbisara/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
   }
     ]
   }
