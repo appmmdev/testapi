@@ -371,7 +371,7 @@
   }, {
     "movietitle": "Kanam",
     "description": "This App is Designed for myanmar people",
-    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-28/635bac8e88162.jpg",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-25/6357b534b106d.jpg",
     "link": "http://www.zegomovie.com/Videos/Kanam/index.m3u8",
     "catagory": "Popular",
     "studio": "Bollywood"
@@ -382,6 +382,20 @@
     "link": "http://www.zegomovie.com/Videos/GangsterGangaraju/index.m3u8",
     "catagory": "Popular",
     "studio": "Bollywood"
+  }, {
+    "movietitle": "Ponniyin Selvan: Part I",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-29/635cfce0760ef.jpg",
+    "link": "http://www.zegomovie.com/Videos/PonniyinSelvanPartI/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "All Quieton the Western Front",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-29/635cfe7c3bb1f.jpg",
+    "link": "http://www.zegomovie.com/Videos/AllQuietontheWesternFront/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Germany"
   }
     ]
   }
