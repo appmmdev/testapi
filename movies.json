@@ -354,6 +354,34 @@
     "link": "http://www.zegomovie.com/Videos/Bimbisara/index.m3u8",
     "catagory": "Popular",
     "studio": "Bollywood"
+  }, {
+    "movietitle": "Mike",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-28/635bac8e88162.jpg",
+    "link": "http://www.zegomovie.com/Videos/Mike/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Palthu Janwar",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-26/635900d57f204.jpg",
+    "link": "http://www.zegomovie.com/Videos/PalthuJanwar/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Kanam",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-28/635bac8e88162.jpg",
+    "link": "http://www.zegomovie.com/Videos/Kanam/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Gangster Gangaraju",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-22/6353aecbaa2bc.jpg",
+    "link": "http://www.zegomovie.com/Videos/GangsterGangaraju/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
   }
     ]
   }
