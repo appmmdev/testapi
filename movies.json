@@ -466,6 +466,20 @@
     "link": "http://www.zegomovie.com/Videos/Hridayam/index.m3u8",
     "catagory": "Popular",
     "studio": "Bollywood"
+  }, {
+    "movietitle": "Naane Varuvean",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-29/635cfbe9a4876.jpg",
+    "link": "http://www.zegomovie.com/Videos/NaaneVaruvean/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  }, {
+    "movietitle": "Krishna Vrinda Vihari",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-31/635f2de802f9b.jpg",
+    "link": "http://www.zegomovie.com/Videos/KrishnaVrindaVihari/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
   }
     ]
   }
