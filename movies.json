@@ -1,5 +1,41 @@
 {
     "Movies_Database": [
+         {
+    "movietitle": "Kanam",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-10-25/6357b534b106d.jpg",
+    "link": "http://www.zegomovie.com/Videos/Kanam/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  } , {
+    "movietitle": "Kerosene",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-05-28/6291e8adab6b8.jpg",
+    "link": "http://www.zegomovie.com/Videos/Kerosene/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  } , {
+    "movietitle": "Mere Desh Ki Dharti",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-07-29/62e3aad72730c.jpg",
+    "link": "http://www.zegomovie.com/Videos/MereDeshKiDharti/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  } , {
+    "movietitle": "Dhaakad",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-08-19/62ff54264a303.jpg",
+    "link": "http://www.zegomovie.com/Videos/Dhaakad/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  } , {
+    "movietitle": "Baba, Baby O…",
+    "description": "This App is Designed for myanmar people",
+    "movie_img": "http://zegomovie.com/Uploads/vod/2022-08-03/62ea17c077f7d.jpg",
+    "link": "http://www.zegomovie.com/Videos/BabaBabyO/index.m3u8",
+    "catagory": "Popular",
+    "studio": "Bollywood"
+  } ,
       {
         "movietitle": "Ramarao On Duty",
         "description": "အကောက်ခွန်မှူး ရာမာရာအိုဟာ အမှန်အတိုင်းသာဖြစ်ပါစေဘယ်လိုကိစ္စမဆို အဆုံးထိ လိုက်သူပါနူကလီးယားဓါတ်ပေါင်းဖိုဆောက်တဲ့ကိစ္စတစ်ခုမှာ သူမသိပဲအကျိုးဆောင်ခဲ့တာကစပြီး ရည်းစားဟောင်းကောင်မလေးရဲ့ယောကျာ်းပျောက်မှုကိုရှာရင်းဖွေရင်းနဲ့ မထင်မှတ်ဘဲမဖော်ထုတ်ဘဲထားတဲ့လူပျောက်မှုတွေအပြင်မှောင်ခိုမှုတွေပါတန်းစီတွေ့လာတဲ့အခါမှာတော့ဘာတွေဆက်ဖြစ်မလဲ ပြန်ဆုတ်ရိုးထုံးစံမရှိတဲ့ရာမာရာအိုတစ်ယောက်အစတွေဆွဲထုတ်လွန်းလို့ကြည့်မရဖြစ်နေတဲ့ရဲမှူးကရော ဘယ်လိုတွေပါဝင်ပတ်သက်နေမလဲဆိုတာရုပ်ရှင်ထဲမှာ လိုက်ပါစီးမျောခံစားလိုက်ပါဦး",
