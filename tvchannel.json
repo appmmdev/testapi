@@ -26,11 +26,6 @@
       "preview_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17"
     },
     {
-      "channelname": "Fight Sport",
-      "preview_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17",
-      "link": "https://shls-fight-sports-ak.akamaized.net:443/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8"
-    },
-    {
       "channelname": "Channel K",
       "preview_img": "https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/mccover.png?alt=media&token=95c60e07-53d3-4261-8096-d26944a5db17",
       "link": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8"
