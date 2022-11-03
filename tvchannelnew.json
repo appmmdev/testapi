@@ -23,11 +23,6 @@
 
         ,
         {
-          "channelname": "India Today",
-          "link": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_404p/chunks.m3u8",
-          "preview_img": "https://akm-img-a-in.tosshub.com/indiatoday/images/livetv/indiaToday.jpg"
-        },
-        {
           "channelname": "Channel Me",
           "link": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8",
           "preview_img": "https://www.myanmartvchannels.com/assets/images/channelicon/mrtvent.jpg"
@@ -36,16 +31,6 @@
           "channelname": "Mahar",
           "link": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8",
           "preview_img": "https://www.myanmartvchannels.com/assets/images/channeliconb/mahar.jpg"
-        },
-        {
-          "channelname": "MUTV",
-          "preview_img": "https://www.insideworldfootball.com/app/uploads/2016/01/MUTV_logo.jpeg",
-          "link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-        },
-        {
-          "channelname": "Fight Sport",
-          "preview_img": "https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443",
-          "link": "https://shls-fight-sports-ak.akamaized.net:443/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8"
         },
         {
           "channelname": "Channel K",
