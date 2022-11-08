@@ -1,5 +1,45 @@
 {
   "Movies_Database": [
+     {
+      "movietitle": "Velaiilla Pattadhari 2",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-03/5cf505287c6f0.jpg",
+      "link": "http://www.zegomovie.com/Videos/VelaiillaPattadhari2/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },
+     {
+      "movietitle": "Dhayam",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-14/5d03525fa0538.jpg",
+      "link": "http://www.zegomovie.com/Videos/dhayam/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },
+     {
+      "movietitle": "Mahanubhavudu",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-14/5d0349147c57f.jpg",
+      "link": "http://www.zegomovie.com/Videos/Mahanubhavudu/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },
+     {
+      "movietitle": "Dhamaal",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-04/5cf653e042c5f.jpg",
+      "link": "http://www.zegomovie.com/Videos/Dhamaal/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },
+     {
+      "movietitle": "Vikram Vedha",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-04/5cf5f1332cd9a.jpg",
+      "link": "http://www.zegomovie.com/Videos/VikramVedha/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },
     {
       "movietitle": "Brahmāstra Part One: Shiva",
       "description": "This App is Designed for myanmar people",
