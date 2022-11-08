@@ -1,6 +1,13 @@
 {
   "Movies_Database": [
     {
+      "movietitle": "Flashback",
+      "description": "After a chance encounter with a man forgotten from his youth, Fred literally and metaphorically journeys into his past.",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2021-06-11/60c2dc1908f07.jpg",
+      "link": "http://www.zegomovie.com/Videos/Flashback/index.m3u8",
+      "catagory": "USA",
+      "studio": "Hollywood"
+    },{
       "movietitle": "Oh Manapenne!",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2021-12-28/61ca8a2bd1d47.jpg",
