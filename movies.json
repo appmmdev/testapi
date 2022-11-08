@@ -1,6 +1,14 @@
 {
   "Movies_Database": [
      {
+      "movietitle": "Om Shanti Om",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-05-28/5ced2fb735f1f.jpg",
+      "link": "http://www.zegomovie.com/Videos/OmShantiOm/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },
+     {
       "movietitle": "Velaiilla Pattadhari 2",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-03/5cf505287c6f0.jpg",
