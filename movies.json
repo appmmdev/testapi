@@ -1,6 +1,14 @@
 {
   "Movies_Database": [
     {
+      "movietitle": "Brahmāstra Part One: Shiva",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-11-05/63662b34a59a0.jpg",
+      "link": "http://www.zegomovie.com/Videos/BrahmastraPartOneShiva/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },
+    {
       "movietitle": "Flashback",
       "description": "After a chance encounter with a man forgotten from his youth, Fred literally and metaphorically journeys into his past.",
       "movie_img": "http://zegomovie.com/Uploads/vod/2021-06-11/60c2dc1908f07.jpg",
