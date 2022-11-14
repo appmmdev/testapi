@@ -1,6 +1,13 @@
 {
   "Movies_Database": [
      {
+      "movietitle": "Satria Dewa: Gatotkaca",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-11-14/6371e71648ec8.jpg",
+      "link": "http://www.zegomovie.com/Videos/SatriaDewaGatotkaca/index.m3u8",
+      "catagory": "Indonesia",
+      "studio": "Indonesia"
+    },{
       "movietitle": "Monica, O My Darling",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2022-11-14/6371f9126f465.jpg",
