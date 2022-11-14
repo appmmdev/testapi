@@ -1,6 +1,13 @@
 {
   "Movies_Database": [
      {
+      "movietitle": "Monica, O My Darling",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-11-14/6371f9126f465.jpg",
+      "link": "http://www.zegomovie.com/Videos/MonicaOMyDarling/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Power",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-10-28/5db6917d9d94d.jpg",
