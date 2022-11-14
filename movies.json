@@ -1,6 +1,27 @@
 {
   "Movies_Database": [
      {
+      "movietitle": "Nenu Meeku Baaga Kavalsinavaadini",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-11-11/636db23b59ac9.jpg",
+      "link": "http://www.zegomovie.com/Videos/NenuMeekuBaagaKavalsinavaadini/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Rorschach",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-11-14/6371f37d5e762.jpg",
+      "link": "http://www.zegomovie.com/Videos/Rorschach/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Brahmāstra Part One: Shiva",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-11-05/63662b34a59a0.jpg",
+      "link": "http://www.zegomovie.com/Videos/BrahmastraPartOneShiva/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Satria Dewa: Gatotkaca",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2022-11-14/6371e71648ec8.jpg",
