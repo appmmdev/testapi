@@ -1,5 +1,35 @@
 {
   "Movies_Database": [
+    
+    {
+      "movietitle": "Thor: Love and Thunder",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-07-29/62e391e375156.jpg",
+      "link": "http://www.zegomovie.com/Videos/ThorLoveandThunder/index.m3u8",
+      "catagory": "USA",
+      "studio": "Marvel"
+    },{
+      "movietitle": "Thor TheDark World",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-05-24/5ce7ae6aac32d.jpg",
+      "link": "http://www.zegomovie.com/Videos/ThorTheDarkWorld/index.m3u8",
+      "catagory": "USA",
+      "studio": "Marvel"
+    },{
+      "movietitle": "Thor Ragnarok",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-05/5cf783a6d5431.jpg",
+      "link": "http://www.zegomovie.com/Videos/ThorRagnarok/index.m3u8",
+      "catagory": "USA",
+      "studio": "Marvel"
+    },{
+      "movietitle": "Thor",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-05-24/5ce7aeb74aab4.jpg",
+      "link": "http://www.zegomovie.com/Videos/Thor/index.m3u8",
+      "catagory": "USA",
+      "studio": "Marvel"
+    },
      {
       "movietitle": "Sardar",
       "description": "This App is Designed for myanmar people",
