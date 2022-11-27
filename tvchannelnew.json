@@ -2,6 +2,11 @@
   "TV_Database": [
    
     {
+      "channelname": Test
+      "link": "rtsp://103.121.224.20:8085/0",
+      "preview_img": "https://4.bp.blogspot.com/-xQ8SdveRETM/WBHgAOx7jNI/AAAAAAAACmo/wPCZrPiJDQ0_VepbG-OrR6L7fhnj7WIfwCLcB/s1600/%25E1%2580%2599%25E1%2580%259F%25E1%2580%25AC%25E1%2580%25B1%25E1%2580%2597%25E1%2580%25AC%25E1%2580%2593%25E1%2580%25AD.jpg",
+      "channel": "TVChannel"
+    }, {
       "channelname": "မဟာဗောဓိ",
       "link": "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
       "preview_img": "https://4.bp.blogspot.com/-xQ8SdveRETM/WBHgAOx7jNI/AAAAAAAACmo/wPCZrPiJDQ0_VepbG-OrR6L7fhnj7WIfwCLcB/s1600/%25E1%2580%2599%25E1%2580%259F%25E1%2580%25AC%25E1%2580%25B1%25E1%2580%2597%25E1%2580%25AC%25E1%2580%2593%25E1%2580%25AD.jpg",
