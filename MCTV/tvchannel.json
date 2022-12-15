@@ -1,1 +1,65 @@
-hi
+{
+  "TV_Database": [
+   
+   {
+      "channelname": "မဟာဗောဓိ",
+      "link": "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
+      "preview_img": "https://4.bp.blogspot.com/-xQ8SdveRETM/WBHgAOx7jNI/AAAAAAAACmo/wPCZrPiJDQ0_VepbG-OrR6L7fhnj7WIfwCLcB/s1600/%25E1%2580%2599%25E1%2580%259F%25E1%2580%25AC%25E1%2580%25B1%25E1%2580%2597%25E1%2580%25AC%25E1%2580%2593%25E1%2580%25AD.jpg",
+      "channel": "TVChannel"
+    },
+    {
+      "channelname": "Channel 7",
+      "link": "https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/playlist.m3u8",
+      "preview_img": "https://photos.live-tv-channels.org/tv-logo/mm-channel-7-1023.jpg",
+      "channel": "TVChannel"
+    },
+    {
+      "channelname": "MRTV 4",
+      "link": "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/playlist.m3u8",
+      "preview_img": "https://www.coolstreaming.us/img/ch/image89076243760.jpg",
+      "channel": "TVChannel"
+    },
+    {
+      "channelname": "Channel Me",
+      "link": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8",
+      "preview_img": "https://www.myanmartvchannels.com/assets/images/channelicon/mrtvent.jpg",
+      "channel": "TVChannel"
+    },
+    {
+      "channelname": "Mahar",
+      "link": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8",
+      "preview_img": "https://www.myanmartvchannels.com/assets/images/channeliconb/mahar.jpg",
+      "channel": "TVChannel"
+    },
+    {
+      "channelname": "Channel K",
+      "preview_img": "https://www.myanmartvchannels.com/assets/images/channeliconb/channelk.jpg",
+      "link": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8",
+      "channel": "TVChannel"
+    },
+    {
+      "channelname": "MNTV",
+      "preview_img": "https://www.myanmartvchannels.com/assets/images/channeliconb/mntv.jpg",
+      "link": "http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
+      "channel": "TVChannel"
+    },
+    {
+      "channelname": "India Today",
+      "link": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_404p/chunks.m3u8",
+      "preview_img": "https://akm-img-a-in.tosshub.com/indiatoday/images/livetv/indiaToday.jpg",
+      "channel": "TVChannel"
+    },
+    {
+      "channelname": "MUTV",
+      "preview_img": "https://www.insideworldfootball.com/app/uploads/2016/01/MUTV_logo.jpeg",
+      "link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+      "channel": "TVChannel"
+    },
+    {
+      "channelname": "Fight Sport",
+      "preview_img": "https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443",
+      "link": "https://shls-fight-sports-ak.akamaized.net:443/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8",
+      "channel": "TVChannel"
+    }
+  ]
+}
