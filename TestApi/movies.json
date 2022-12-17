@@ -2,35 +2,35 @@
     "Movies_Database":[
 
         {
-            "movietitle":"MC Movie",
+            "movietitle":"MC Test Movie",
             "description":"MC TV is designed for Myanmar People.",
             "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/cover%2Fmccover.png?alt=media&token=07b3c1d8-72b5-47c7-9dc6-c1a7a3743932",
             "link":"https://www.googleapis.com/drive/v3/files/1psODgYqejbdxdi1ZQChH2Ep_osbqlJyf?alt=media&key=AIzaSyAQvTsLlrBYgM1ObYsPJnB7RijZ3c72tBU",
             "catagory":"Popular",
             "studio":"Bollywood"
         },{
-            "movietitle":"MC Movie 2 ",
+            "movietitle":"MC Test Movie 2 ",
             "description":"MC TV is designed for Myanmar People.",
             "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/cover%2Fmccover.png?alt=media&token=07b3c1d8-72b5-47c7-9dc6-c1a7a3743932",
             "link":"https://www.googleapis.com/drive/v3/files/1psODgYqejbdxdi1ZQChH2Ep_osbqlJyf?alt=media&key=AIzaSyAQvTsLlrBYgM1ObYsPJnB7RijZ3c72tBU",
             "catagory":"Popular",
             "studio":"Bollywood"
         },{
-            "movietitle":"MC Movie 3",
+            "movietitle":"MC Test Movie 3",
             "description":"MC TV is designed for Myanmar People.",
             "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/cover%2Fmccover.png?alt=media&token=07b3c1d8-72b5-47c7-9dc6-c1a7a3743932",
             "link":"https://www.googleapis.com/drive/v3/files/1psODgYqejbdxdi1ZQChH2Ep_osbqlJyf?alt=media&key=AIzaSyAQvTsLlrBYgM1ObYsPJnB7RijZ3c72tBU",
             "catagory":"Popular",
             "studio":"Bollywood"
         },{
-            "movietitle":"MC Movie 4",
+            "movietitle":"MC Test Movie 4",
             "description":"MC TV is designed for Myanmar People.",
             "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/cover%2Fmccover.png?alt=media&token=07b3c1d8-72b5-47c7-9dc6-c1a7a3743932",
             "link":"https://www.googleapis.com/drive/v3/files/1psODgYqejbdxdi1ZQChH2Ep_osbqlJyf?alt=media&key=AIzaSyAQvTsLlrBYgM1ObYsPJnB7RijZ3c72tBU",
             "catagory":"Popular",
             "studio":"Bollywood"
         },{
-            "movietitle":"MC Movie 5",
+            "movietitle":"MC Test Movie 5",
             "description":"MC TV is designed for Myanmar People.",
             "movie_img":"https://firebasestorage.googleapis.com/v0/b/mc-tv-9c0d0.appspot.com/o/cover%2Fmccover.png?alt=media&token=07b3c1d8-72b5-47c7-9dc6-c1a7a3743932",
             "link":"https://www.googleapis.com/drive/v3/files/1psODgYqejbdxdi1ZQChH2Ep_osbqlJyf?alt=media&key=AIzaSyAQvTsLlrBYgM1ObYsPJnB7RijZ3c72tBU",
