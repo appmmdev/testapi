@@ -5,13 +5,13 @@
 
         {
 
-            "appversion":"3.0",
-            "updatemessage":"Fix Bug & Change UI",
+            "appversion":"4.0",
+            "updatemessage":"Fix Bug & Add Next Play Button",
             "facebookprofile":"komoenet",
             "moviedatasize":"10",
             "tvdatasize":"10",
-            "channelURL":"https://appmmdev.github.io/testapi/TestApi/tvchannel.json",
-            "movieURL":"https://appmmdev.github.io/testapi/TestApi/movies.json"
+            "channelURL":"https://appmmdev.github.io/testapi/MCTV/tvchannel.json",
+            "movieURL":"https://appmmdev.github.io/testapi/MCTV/movies.json"
         }
     ]
 }
