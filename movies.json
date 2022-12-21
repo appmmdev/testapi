@@ -1,6 +1,48 @@
 {
   "Movies_Database": [
     {
+      "movietitle": "Ant Man(2015)",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff23cdf1a78.jpg",
+      "link": "http://www.zegomovie.com/Videos/AntMan/index.m3u8",
+      "catagory": "USA",
+      "studio": "Marvel"
+    },{
+      "movietitle": "Avengers Age of Ultron(2015)",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff435ecdc43.jpg",
+      "link": "http://www.zegomovie.com/Videos/AvengersAgeofUltron/index.m3u8",
+      "catagory": "USA",
+      "studio": "Marvel"
+    },{
+      "movietitle": "Guardians of the galaxy(2014)",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-05-24/5ce7ce3aab9b4.jpg",
+      "link": "http://www.zegomovie.com/Videos/Guardiansofthegalaxy/index.m3u8",
+      "catagory": "USA",
+      "studio": "Marvel"
+    },{
+      "movietitle": "The Winter Solider(2014)",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-05-22/5ce5296006938.jpg",
+      "link": "http://www.zegomovie.com/Videos/CaptainAmerica2/index.m3u8",
+      "catagory": "USA",
+      "studio": "Marvel"
+    },{
+      "movietitle": "Iron Man 3(2013)",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff338281d2a.jpg",
+      "link": "http://www.zegomovie.com/Videos/IronMan3/index.m3u8",
+      "catagory": "USA",
+      "studio": "Marvel"
+    },{
+      "movietitle": "The Avenger(2012)",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff442ddbd1c.jpg",
+      "link": "http://www.zegomovie.com/Videos/TheAvengers1/index.m3u8",
+      "catagory": "USA",
+      "studio": "Marvel"
+    },{
       "movietitle": "Captain America First Avenger(2011)",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-05-22/5ce529bdc06cd.jpg",
