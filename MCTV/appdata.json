@@ -11,7 +11,9 @@
             "moviedatasize":"10",
             "tvdatasize":"10",
             "channelURL":"https://appmmdev.github.io/testapi/MCTV/tvchannel.json",
-            "movieURL":"https://appmmdev.github.io/testapi/MCTV/movies.json"
+            "movieURL":"https://appmmdev.github.io/testapi/MCTV/movies.json",
+            "seriesURL":"https://appmmdev.github.io/testapi/MCTV/series.json"
+            
         }
     ]
 }
