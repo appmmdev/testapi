@@ -5,50 +5,50 @@
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d63625aa3676.jpg",
       "link": [
-        
         {
-          "ep_no":"EP 1",          
-          "link":"http://www.zegomovie.com/Videos/LiveEp1/index.m3u8"
-        },{
-          "ep_no":"EP 2",          
-          "link":"http://www.zegomovie.com/Videos/LiveEp2/index.m3u8"
-        },{
-          "ep_no":"EP 3",          
-          "link":"http://www.zegomovie.com/Videos/LiveEp3/index.m3u8"
-        },{
-          "ep_no":"EP 4",          
-          "link":"http://www.zegomovie.com/Videos/LiveEp4/index.m3u8"
+          "ep_no": "EP 1",
+          "link": "http://www.zegomovie.com/Videos/LiveEp1/index.m3u8"
+        },
+        {
+          "ep_no": "EP 2",
+          "link": "http://www.zegomovie.com/Videos/LiveEp2/index.m3u8"
+        },
+        {
+          "ep_no": "EP 3",
+          "link": "http://www.zegomovie.com/Videos/LiveEp3/index.m3u8"
+        },
+        {
+          "ep_no": "EP 4",
+          "link": "http://www.zegomovie.com/Videos/LiveEp4/index.m3u8"
         }
       ],
       "catagory": "Korea Series",
       "studio": "Korea"
-    
     },
-
-{
+    {
       "movietitle": "IRIS",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-08-26/5d636857ae2e4.jpg",
       "link": [
-        
         {
-          "ep_no":"EP 1",          
-          "link":"http://www.zegomovie.com/Videos/Iris2Ep1/index.m3u8"
-        },{
-          "ep_no":"EP 2",          
-          "link":"http://www.zegomovie.com/Videos/Iris2Ep2/index.m3u8"
-        },{
-          "ep_no":"EP 3",          
-          "link":"http://www.zegomovie.com/Videos/Iris2Ep3/index.m3u8"
-        },{
-          "ep_no":"EP 4",          
-          "link":"http://www.zegomovie.com/Videos/Iris2Ep4/index.m3u8"
+          "ep_no": "EP 1",
+          "link": "http://www.zegomovie.com/Videos/Iris2Ep1/index.m3u8"
+        },
+        {
+          "ep_no": "EP 2",
+          "link": "http://www.zegomovie.com/Videos/Iris2Ep2/index.m3u8"
+        },
+        {
+          "ep_no": "EP 3",
+          "link": "http://www.zegomovie.com/Videos/Iris2Ep3/index.m3u8"
+        },
+        {
+          "ep_no": "EP 4",
+          "link": "http://www.zegomovie.com/Videos/Iris2Ep4/index.m3u8"
         }
       ],
       "catagory": "Korea",
       "studio": "Korea"
     }
-    
-    ]
-  
+  ]
 }
