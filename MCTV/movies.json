@@ -136,6 +136,34 @@
       "studio": "Marvel"
     },
      {
+      "movietitle": "Masooda",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-24/63a6d1c7c8fb8.png",
+      "link": "http://www.zegomovie.com/Videos/Masooda/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Malayankunju",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-22/63a3ead1d23ed.png",
+      "link": "http://www.zegomovie.com/Videos/Malayankunju/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Thiruchitrambalam",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-20/63a13e30bdd47.PNG",
+      "link": "http://www.zegomovie.com/Videos/Thiruchitrambalam/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Padavettu",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-11-30/6386c23f2e9ed.jpg",
+      "link": "http://www.zegomovie.com/Videos/Padavettu/index.m3u8",
+      "catagory": "India",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Sardar",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2022-11-22/637c98da200bd.jpg",
