@@ -178,31 +178,11 @@
         {
           "ep_no": "Loki EP 1",
           "link": "http://www.zegomovie.com/Videos/Loki/index.m3u8"
-        },
-        {
-          "ep_no": "Loki EP 2",
-          "link": "http://www.zegomovie.com/Videos/Loki2/index.m3u8"
-        },
-        {
-          "ep_no": "Loki EP 3",
-          "link": "http://www.zegomovie.com/Videos/Loki3/index.m3u8"
-        },
-        {
-          "ep_no": "Loki EP 4",
-          "link": "http://www.zegomovie.com/Videos/Loki4/index.m3u8"
-        },
-        {
-          "ep_no": "Loki EP 5",
-          "link": "http://www.zegomovie.com/Videos/Loki5/index.m3u8"
-        },
-        {
-          "ep_no": "Loki EP 6",
-          "link": "http://www.zegomovie.com/Videos/Loki6/index.m3u8"
         }
         
       ],
-      "catagory": "Korea",
-      "studio": "Korea"
+      "catagory": "Marvel",
+      "studio": "Marvel"
     }
   ]
 }
