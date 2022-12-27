@@ -1,6 +1,34 @@
 {
   "Movies_Database": [
     {
+      "movietitle": "Bhramam",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-27/63aab69defb79.png",
+      "link": "http://www.zegomovie.com/Videos/Bhramam/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Nota",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-27/63aab46ca59dc.png",
+      "link": "http://www.zegomovie.com/Videos/Nota/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Govinda Naam Mera",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-21/63a2e4f579f5c.png",
+      "link": "http://www.zegomovie.com/Videos/Govinda%20Naam%20Mera/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Friend Ship",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Public/images/no.jpg",
+      "link": "http://www.zegomovie.com/Videos/Friendship/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "The Teacher",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-26/63a963cad780f.png",
