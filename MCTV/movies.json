@@ -1,6 +1,13 @@
 {
   "Movies_Database": [
     {
+      "movietitle": "MAHARSHI",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-10-28/5db6684cadeff.jpg",
+      "link": "http://www.zegomovie.com/Videos/MAHARSHIR/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Naa Peru Surya Naa Illu India",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-22/5d0e0f1768826.jpg",
