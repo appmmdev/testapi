@@ -1,6 +1,13 @@
 {
   "Movies_Database": [
     {
+      "movietitle": "Naa Peru Surya Naa Illu India",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-22/5d0e0f1768826.jpg",
+      "link": "http://www.zegomovie.com/Videos/NaaPeruSuryaNaaIlluIndia/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Kick",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff49bb317ee.jpg",
