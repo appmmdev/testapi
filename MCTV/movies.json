@@ -1,6 +1,41 @@
 {
   "Movies_Database": [
     {
+      "movietitle": "Chaavu Kaburu Challaga",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2021-06-11/60c2e402893cd.jpg",
+      "link": "http://www.zegomovie.com/Videos/ChaavuKaburuChallaga/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Rang De",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2021-06-15/60c81d13c8fc2.jpg",
+      "link": "http://www.zegomovie.com/Videos/RangDe/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Radhe: Your Most Wanted Bhai",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2021-05-15/609f7aee4710d.jpg",
+      "link": "http://www.zegomovie.com/Videos/RadheYourMostWantedBhai/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "ACT-1978",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2021-03-30/60628a3de8473.jpg",
+      "link": "http://www.zegomovie.com/Videos/ACT19781/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Nail Polish",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2021-01-19/6006844b870c1.jpg",
+      "link": "http://www.zegomovie.com/Videos/NailPolish/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Bhramam",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2022-12-27/63aab69defb79.png",
