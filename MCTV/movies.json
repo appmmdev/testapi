@@ -1,6 +1,27 @@
 {
   "Movies_Database": [
     {
+      "movietitle": "Kick",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff49bb317ee.jpg",
+      "link": "http://www.zegomovie.com/Videos/KICK/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    }, {
+      "movietitle": "Lamhaa: The Untold Story of Kashmir",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-01/5cf2495b65528.jpg",
+      "link": "http://www.zegomovie.com/Videos/Lamhaa/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    }, {
+      "movietitle": "3 Idiots",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-11/5cff33ca14e8f.jpg",
+      "link": "http://www.zegomovie.com/Videos/3Idiots/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    }, {
       "movietitle": "Chaavu Kaburu Challaga",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2021-06-11/60c2e402893cd.jpg",
