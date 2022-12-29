@@ -3,6 +3,27 @@
     
     
     {
+      "movietitle": "Bodyguard",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-03/5cf4dd7a8b021.jpg",
+      "link": "http://www.zegomovie.com/Videos/Bodyguard/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "Mitron",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-27/5d14450665c23.jpg",
+      "link": "http://www.zegomovie.com/Videos/Mitron/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
+      "movietitle": "The Shaukeens",
+      "description": "This App is Designed for myanmar people",
+      "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-14/5d0381dc321e4.jpg",
+      "link": "http://www.zegomovie.com/Videos/theShaukeens/index.m3u8",
+      "catagory": "Bollywood",
+      "studio": "Bollywood"
+    },{
       "movietitle": "Hello Guru Prema Kosame",
       "description": "This App is Designed for myanmar people",
       "movie_img": "http://zegomovie.com/Uploads/vod/2019-06-25/5d11d043524a7.jpg",
